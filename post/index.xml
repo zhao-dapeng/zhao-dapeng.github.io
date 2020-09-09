@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Example Site</title>
+    <link>https://theme-stack.jimmycai.com/post/</link>
+    <description>Recent content in Posts on Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 16:20:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://theme-stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>起个名儿吧</title>
+      <link>https://theme-stack.jimmycai.com/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</link>
+      <pubDate>Wed, 09 Sep 2020 16:20:12 +0800</pubDate>
+      
+      <guid>https://theme-stack.jimmycai.com/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文章</title>
+      <link>https://theme-stack.jimmycai.com/p/test-post/</link>
+      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://theme-stack.jimmycai.com/p/test-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试文章</title>
+      <link>https://theme-stack.jimmycai.com/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://theme-stack.jimmycai.com/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description>大 print(&amp;quot;hello world&amp;quot;)   图片 1</description>
+    </item>
+    
+  </channel>
+</rss>
