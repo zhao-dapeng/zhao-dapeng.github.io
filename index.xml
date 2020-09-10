@@ -5,28 +5,30 @@
     <link>https://www.solitude.cool/</link>
     <description>Recent content on Solitude</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 15:25:53 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 10 Sep 2020 17:31:12 +0800</lastBuildDate>
     
 	<atom:link href="https://www.solitude.cool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>起</title>
-      <link>https://www.solitude.cool/p/%E8%B5%B7/</link>
-      <pubDate>Thu, 10 Sep 2020 15:25:53 +0800</pubDate>
+      <title>起个名儿吧</title>
+      <link>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</link>
+      <pubDate>Thu, 10 Sep 2020 17:31:12 +0800</pubDate>
       
-      <guid>https://www.solitude.cool/p/%E8%B5%B7/</guid>
+      <guid>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>起个名儿吧</title>
-      <link>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</link>
-      <pubDate>Thu, 10 Sep 2020 10:51:31 +0800</pubDate>
+      <title>第一篇博客</title>
+      <link>https://www.solitude.cool/p/the-first-blog/</link>
+      <pubDate>Thu, 10 Sep 2020 16:47:19 +0800</pubDate>
       
-      <guid>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</guid>
-      <description></description>
+      <guid>https://www.solitude.cool/p/the-first-blog/</guid>
+      <description>​	有必要说一下自己这次写博客的原因，纯属是这个主题风格吸引了我，加上这两天没事儿干，就折腾了一下。
+​	粗略的算下来这是我的第三个静态博客了，之前的都是无疾而终自己懒，文笔差，不文艺。也不知道这次能坚持多久，至少现在，我码字的这个时候，是打算写到死的。
+​	这就词穷了，就先到这儿吧，来日方长~~</description>
     </item>
     
   </channel>
