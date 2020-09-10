@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Solitude</title>
-    <link>https://www.solitude.cool/post/</link>
-    <description>Recent content in Posts on Solitude</description>
+    <title>公务员 on Solitude</title>
+    <link>https://www.solitude.cool/tags/%E5%85%AC%E5%8A%A1%E5%91%98/</link>
+    <description>Recent content in 公务员 on Solitude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 11 Sep 2020 00:24:23 +0800</lastBuildDate>
     
-	<atom:link href="https://www.solitude.cool/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.solitude.cool/tags/%E5%85%AC%E5%8A%A1%E5%91%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,17 +24,6 @@
 ​	进步缓慢，说话不流畅，有些题还不知道说什么，整理了很多题，背过的却很少。
 ​	马上凌晨一点了，今天的收获又是很小。
 ​	不知道努力会不会有收获，尽人事，听天命！！！</description>
-    </item>
-    
-    <item>
-      <title>第一篇博客</title>
-      <link>https://www.solitude.cool/p/the-first-blog/</link>
-      <pubDate>Thu, 10 Sep 2020 16:47:19 +0800</pubDate>
-      
-      <guid>https://www.solitude.cool/p/the-first-blog/</guid>
-      <description>​	有必要说一下自己这次写博客的原因，纯属是这个主题风格吸引了我，加上这两天没事儿干，就折腾了一下。
-​	粗略的算下来这是我的第三个静态博客了，之前的都是无疾而终自己懒，文笔差，不文艺。也不知道这次能坚持多久，至少现在，我码字的这个时候，是打算写到死的。
-​	这就词穷了，就先到这儿吧，来日方长~~</description>
     </item>
     
   </channel>
