@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Solitude</title>
-    <link>https://theme-stack.jimmycai.com/tags/</link>
+    <link>https://www.solitude.cool/tags/</link>
     <description>Recent content in Tags on Solitude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Sep 2020 16:20:12 +0800</lastBuildDate>
     
-	<atom:link href="https://theme-stack.jimmycai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.solitude.cool/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>stack</title>
-      <link>https://theme-stack.jimmycai.com/tags/stack/</link>
+      <link>https://www.solitude.cool/tags/stack/</link>
       <pubDate>Wed, 09 Sep 2020 16:20:12 +0800</pubDate>
       
-      <guid>https://theme-stack.jimmycai.com/tags/stack/</guid>
+      <guid>https://www.solitude.cool/tags/stack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://theme-stack.jimmycai.com/tags/hugo/</link>
+      <link>https://www.solitude.cool/tags/hugo/</link>
       <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
       
-      <guid>https://theme-stack.jimmycai.com/tags/hugo/</guid>
+      <guid>https://www.solitude.cool/tags/hugo/</guid>
       <description></description>
     </item>
     

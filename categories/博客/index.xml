@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on Solitude</title>
-    <link>https://theme-stack.jimmycai.com/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://www.solitude.cool/categories/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on Solitude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 01:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://theme-stack.jimmycai.com/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.solitude.cool/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>测试文章</title>
-      <link>https://theme-stack.jimmycai.com/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>https://www.solitude.cool/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
       
-      <guid>https://theme-stack.jimmycai.com/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://www.solitude.cool/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description>大 print(&amp;quot;hello world&amp;quot;)   图片 1</description>
     </item>
     
