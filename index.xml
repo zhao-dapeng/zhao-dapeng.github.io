@@ -6,7 +6,7 @@
     <description>Recent content on Solitude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 16:20:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 10:51:31 +0800</lastBuildDate>
     
 	<atom:link href="https://www.solitude.cool/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,28 +14,10 @@
     <item>
       <title>起个名儿吧</title>
       <link>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</link>
-      <pubDate>Wed, 09 Sep 2020 16:20:12 +0800</pubDate>
+      <pubDate>Thu, 10 Sep 2020 10:51:31 +0800</pubDate>
       
       <guid>https://www.solitude.cool/p/%E8%B5%B7%E4%B8%AA%E5%90%8D%E5%84%BF%E5%90%A7/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>文章</title>
-      <link>https://www.solitude.cool/p/test-post/</link>
-      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-      
-      <guid>https://www.solitude.cool/p/test-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>测试文章</title>
-      <link>https://www.solitude.cool/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-      
-      <guid>https://www.solitude.cool/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
-      <description>大 print(&amp;quot;hello world&amp;quot;)   图片 1</description>
     </item>
     
   </channel>
